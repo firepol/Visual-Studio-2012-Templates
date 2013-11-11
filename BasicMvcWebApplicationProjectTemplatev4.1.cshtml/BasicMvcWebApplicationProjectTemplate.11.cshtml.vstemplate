@@ -84,7 +84,7 @@
             <package id="Microsoft.AspNet.WebApi" version="4.0.30506.0" skipAssemblyReferences="true" />
             <package id="Microsoft.AspNet.Providers.Core" version="1.2" skipAssemblyReferences="true" />
             <package id="Microsoft.AspNet.Providers.LocalDB" version="1.1" skipAssemblyReferences="true" />
-            <package id="Microsoft.AspNet.Web.Optimization" version="1.1.1" skipAssemblyReferences="true" />
+            <package id="Microsoft.AspNet.Web.Optimization" version="1.1.2" skipAssemblyReferences="true" />
             <package id="WebGrease" version="1.5.2" skipAssemblyReferences="true" />
             <package id="knockoutjs" version="2.3.0" />
           
